@@ -12,7 +12,7 @@
 
 ### Languages
 
-<a href="https://.typescriptlang.org/" ><img color="" src="typescript.svg" width="48"></a>
+<a href="https://typescriptlang.org/" ><img color="" src="typescript.svg" width="48"></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" ><img src="cplusplus.svg" width="48"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" ><img color="" src="csharp.svg" width="48"></a>
 <a href="https://www.rust-lang.org/" ><img src="rust.svg" width="48"></a>
