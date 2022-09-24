@@ -29,6 +29,7 @@
 <a href="https://opengl.org" ><img src="opengl.svg" width="48"></a>
 <a href="https://unity.com" ><img src="unity.svg" width="48"></a>
 <a href="https://nodejs.org" ><img src="nodedotjs.svg" width="48"></a>
+<a href="https://astro.build/" ><img src="astro.svg" width="48"></a>
 
 ### DevOps
 
@@ -46,7 +47,6 @@
 <a href="https://kubernetes.io/" ><img src="kubernetes.svg" width="48"></a>
 <a href="https://rabbitmq.com/" ><img src="rabbitmq.svg" width="48"></a>
 <a href="https://graphql.org/" ><img src="graphql.svg" width="48"></a>
-<a href="https://astro.build/" ><img src="astro.svg" width="48"></a>
 <a href="https://svelte.dev/" ><img src="svelte.svg" width="48"></a>
 <a href="https://solidjs.com/" ><img src="solid.svg" width="48"></a>
 <a href="https://elixir-lang.org/" ><img src="elixir.svg" width="48"></a>
