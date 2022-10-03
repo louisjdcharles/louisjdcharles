@@ -4,8 +4,8 @@
 
 ## About
 
-- A level student from GB
-- Current focus: web development
+- A level student from the UK
+- Currently focusing on learning AI and Computer Graphics
 - My website: [louisc.me](https://louisc.me/)
 
 ## Technologies
