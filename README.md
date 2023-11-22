@@ -4,7 +4,7 @@
 
 ## About
 
-- A Level student from the UK
+- 1st Year CS student at University of Warwick
 - I use C/C++ <img src="cpp.svg" style="height: 1em"/>, Rust <img src="rust.svg" style="height: 1em"/> and Typescript  <img src="ts.svg" style="height: 1em"/>
 - Interested in computer graphics, game engines, AI and high performance computing.
 - I make websites sometimes
