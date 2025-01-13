@@ -4,7 +4,6 @@
 
 ## About
 
-- 1st Year CS student at University of Warwick
 - I enjoy using C++ and Haskell
 - Interested in FP, AI and Computer Graphics
 - My website: [louisc.me](https://louisc.me/)
